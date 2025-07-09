@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "image": "../src/Assets/TeacherWoman.jpeg",
+
+    "name": "Etudiant 1",
+    "name_fr": "Etudiant 1",
+
+    "opinion": "I was finding it challenging to keep up with the demanding coursework of my Master's in Computer Science, but Taalam made a real difference! The video lectures were clear, detailed, and allowed me to study at my own pace. I highly recommend this platform to any student aiming for success.",
+    "opinion_fr": "  J'avais du mal à suivre la charge de travail exigeante de mon Master en développement informatique, mais Taalam a vraiment fait la différence ! Les vidéos de cours étaient claires, détaillées, et m'ont permis d'apprendre à mon rythme. Je recommande vivement cette plateforme à tous les étudiants qui souhaitent réussir.",
+    "opinion_ar": "كنت أواجه صعوبة في متابعة دروسي، ولكن من دارك أنقذ الأمر! كانت الفيديوهات مفيدة بشكل لا يصدق وسمحت لي بالتعلم بالسرعة التي أريدها. أوصي بها بشدة"
+  }
+]

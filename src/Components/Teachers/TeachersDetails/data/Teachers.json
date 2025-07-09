@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "../../../../src/Assets/ManTeacher.jpeg",
+    "job": "Machine Learning Specialist",
+    "job_fr": "Spécialiste en apprentissage automatique",
+    "job_ar": "أخصائي في التعلم الآلي",
+
+    "name": "Andrew Ng",
+    "name_fr": "Andrew Ng",
+
+    "introduction": "Expert in machine learning with strong skills in algorithms, data analysis, and building predictive models.",
+    "introduction_fr": "Expert en apprentissage automatique avec de solides compétences en algorithmes, analyse de données et construction de modèles prédictifs.",
+
+    "description": "Andrew Ng is a renowned machine learning expert and educator, known for making complex concepts accessible and practical. His teachings emphasize real-world applications and empowering students to build effective models.",
+    "description_fr": "Andrew Ng est un expert reconnu en apprentissage automatique et un éducateur réputé, connu pour rendre les concepts complexes accessibles et pratiques. Son enseignement met l’accent sur les applications réelles et sur l’autonomisation des étudiants pour construire des modèles efficaces.",
+    "description_ar": "أندرو نج هو خبير مشهور في التعلم الآلي ومعلم معروف بجعل المفاهيم المعقدة سهلة الوصول وعملية. يركز تعليمه على التطبيقات الواقعية وتمكين الطلاب من بناء نماذج فعالة.",
+
+    "age": 30,
+    "phone": "0000.00.00.00",
+    "email": "janedoe@gmail.com",
+    "instagram": "https://www.instagram.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com"
+  }
+]

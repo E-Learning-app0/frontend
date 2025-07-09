@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "heading": "We offer a better alternative to academic tutoring.",
+    "heading_fr": "Nous proposons une alternative améliorée au soutien scolaire.",
+    "description": "Our platform gathers everything you need to ensure a successful academic year.",
+    "description_fr": "Notre plateforme réunit tous les éléments nécessaires pour vous garantir une année scolaire réussie."
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "heading": "We explain in a clear and accessible way.",
+    "heading_fr": "Nous expliquons de manière claire et accessible.",
+    "description": "Our learning techniques provide you with concise and easy-to-understand lessons — studying has never been this simple.",
+    "description_fr": "Nos techniques pédagogiques vous offrent des cours clairs et faciles à comprendre — les études n’ont jamais été aussi simples."
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "heading": "Practice in a complete and engaging learning space.",
+    "heading_fr": "Pratiquez dans un espace d’apprentissage complet et stimulant.",
+    "description": "You’ll benefit from various exercises with detailed corrections and materials created by experienced instructors to help you excel in your assessments.",
+    "description_fr": "Vous bénéficierez de nombreux exercices corrigés et de supports élaborés par des enseignants expérimentés pour exceller dans vos évaluations."
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "heading": "Everything you need, all in one place.",
+    "heading_fr": "Tout ce qu’il vous faut, au même endroit.",
+    "description": "Access all subjects, for every grade and academic stream, centralized on one platform.",
+    "description_fr": "Accédez à toutes les matières, pour chaque niveau et filière, réunies sur une seule plateforme."
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "heading": "Affordable for everyone.",
+    "heading_fr": "Accessible à tous.",
+    "description": "Even with full access to a wide range of content, our pricing remains minimal and unmatched for the value provided.",
+    "description_fr": "Malgré l’accès complet à un contenu riche, notre tarif reste minimal et imbattable pour la qualité offerte."
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "heading": "Our reputation reflects our commitment.",
+    "heading_fr": "Notre réputation est le reflet de notre engagement.",
+    "description": "We are dedicated to delivering high-quality educational content — our mission drives the trust we’ve earned.",
+    "description_fr": "Nous nous engageons à fournir un contenu éducatif de qualité — notre mission inspire la confiance que nous avons acquise."
+  }
+]

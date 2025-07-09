@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "title": "Introduction to Programming",
+    "description": "This lesson introduces the basics of programming, including variables, data types, and control structures.",
+    "resources": [
+      {
+        "id": 1,
+        "type": "video",
+        "url": "https://www.w3schools.com/tags/movie.mp4",
+        "filename": "lesson1.mp4"
+      },
+      {
+        "id": 2,
+        "type": "pdf",
+        "url": "https://example.com/lesson1.pdf",
+        "filename": "lesson1.pdf"
+      }
+    ]
+  }
+]
